@@ -8,5 +8,7 @@ Simple website project fot GitHub
 
 ## How to
 
+Sth new
+
 ## Deploy
 
