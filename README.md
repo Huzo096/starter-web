@@ -4,7 +4,9 @@
 
 ## Introduction
 
-##Purpose
+## Purpose
 
-##How to
+## How to
+
+## Deploy
 
