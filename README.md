@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Simple website project fot GitHub.Adding more text
+Simple website project fot GitHub.Adding more text, to myfeature
 
 ## Introduction
 
